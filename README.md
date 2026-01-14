@@ -12,15 +12,9 @@
 <p align="center">
 <!-- Matrix Code Rain -->
 <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400" />
-<!-- Anonymous Hacker -->
-<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="400" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&multiline=true&width=750&lines=%F0%9F%94%B4+SYSTEM+COMPROMISED;%24+root%40hacker%3A~%23+ANKIT_KUMAR;%3E+Full+Stack+Destroyer+Activated" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&multiline=true&width=750&lines=%F0%9F%94%B4+SYSTEM+COMPROMISED;%24+root%40hacker%3A~%23+ANKIT_KUMAR;%3E+Full+Stack+Destroyer+Activated" /> -->
 </p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" />
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=700&lines=%24+cat+%2Fetc%2Fskills;%3E+React.js+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+MASTERED;%3E+Spring+Boot+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+LEGENDARY;%3E+Node.js+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+EXPERT;%24+mission%3A+BUILD+%2B+BREAK+%2B+REPEAT;%F0%9F%94%A5+Status%3A+DANGEROUS+%26+READY" />
 </p>
@@ -89,12 +83,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux&theme=dark" height="50" />
 </p>
-
-### Design
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,ps,pr,ae&theme=dark" height="50" />
-</p>
-
 <br>
 
 ## 📊 GitHub Stats
